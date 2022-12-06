@@ -1,4 +1,5 @@
-# Kernel-Aware Burst Blind Super-Resolution, WACV 2023 [paper](https://arxiv.org/abs/2112.07315)
+# Kernel-Aware Burst Blind Super-Resolution, WACV 2023
+[[paper]](https://arxiv.org/abs/2112.07315)
 
 ## Dependencies
 - OS: Ubuntu 18.04
@@ -51,7 +52,7 @@ The following is a BibTeX reference.
 
 ```
 @article{lian2021kernel,
-  title={Kernel-aware Raw Burst Blind Super-Resolution},
+  title={Kernel-aware Burst Blind Super-Resolution},
   author={Lian, Wenyi and Peng, Shanglian},
   journal={arXiv preprint arXiv:2112.07315},
   year={2021}
