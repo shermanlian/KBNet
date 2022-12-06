@@ -46,6 +46,11 @@ python make_validation_set.py
 python test.py --root ../test_set_0_1.6 --n_GPUs 1 --model KBNet --n_feats 128 --n_resblocks 8 --n_resgroups 5 --batch_size 64 --burst_size 2 --scale 4 --pre_train ../train_log/KBNet/real_models/kbnet/KBNetbest_epoch.pth
 ```
 
+## Results
+
+![results1](figs/fig1.png)
+![results2](figs/fig2.png)
+
 ## Citations
 If EBSR helps your research or work, please consider citing EBSR.
 The following is a BibTeX reference.
